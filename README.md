@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [My github: JustRenitoo](My github: JustRenitoo)
-
-- 💬 Ask me about **python**
-
+- 
+- - 💬 Ask me about **python**
+  - 
 - 📫 How to reach me **r3n4t02005@gmail.com**
-
+- 
 - 📄 Know about my experiences [I am starting with programming, I have been learning about python and scratch for half a year](I am starting with programming, I have been learning about python and scratch for half a year)
 
 <h3 align="left">Connect with me:</h3>
